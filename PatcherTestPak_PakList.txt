@@ -1,0 +1,2 @@
+"E:\LearnSpace\HotPatcherDatasRoot\HotPatcherProj\Saved\Cooked\Windows\HotPatcherProj\Content\Blueprints\PakBlueprint\BP_Actor2.uasset" "../../../HotPatcherProj/Content/Blueprints/BP_Actor2.uasset" -compress
+"E:\LearnSpace\HotPatcherDatasRoot\HotPatcherProj\Saved\Cooked\Windows\HotPatcherProj\Content\Blueprints\PakBlueprint\BP_Actor2.uexp" "../../../HotPatcherProj/Content/Blueprints/BP_Actor2.uexp" -compress
